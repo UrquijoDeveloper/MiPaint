@@ -1,1 +1,1 @@
-## this is a personal project for practice skills
+## This is a personal project for practice skills
